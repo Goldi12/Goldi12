@@ -47,3 +47,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldi12&" alt="goldi12" /></p>
 
+
+
+## Snake eating my contribution graph
+
+![snake gif](https://github.com/Goldi12/Goldi12/blob/output/github-contribution-grid-snake.gif)
+
