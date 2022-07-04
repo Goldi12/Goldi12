@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 
 <h1 align="center">Hi 👋, I'm goldi gupta</h1>
