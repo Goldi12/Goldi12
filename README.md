@@ -4,13 +4,13 @@
 
 
 <h1 align="center">Hi 👋, I'm goldi gupta</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">👨‍💻𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldi12&label=Profile%20views&color=0e75b6&style=flat" alt="goldi12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@goldigu99041195" target="blank"><img src="https://img.shields.io/twitter/follow/@goldigu99041195?logo=twitter&style=for-the-badge" alt="@goldigu99041195" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working **ᴀs ᴀ ғʀᴇᴇʟᴀɴᴄᴇʀ**
 
 - 🌱 I’m currently learning **React, Ux/Ui**
 
